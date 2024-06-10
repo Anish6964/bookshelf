@@ -96,10 +96,6 @@ The application can be deployed on any hosting platform that supports static sit
 3. Select your repository.
 4. Follow the instructions to deploy your site.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Open Library API](https://openlibrary.org/developers/api) for providing book data.
